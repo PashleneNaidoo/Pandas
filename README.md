@@ -1,2 +1,2 @@
 # Pandas
-Micro-school Pandas Library Tutorial
+ Nithecs Micro-school Pandas Library Tutorial
