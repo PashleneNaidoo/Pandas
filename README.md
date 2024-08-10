@@ -1,2 +1,2 @@
 # Pandas
-Pandas Library Tutorial
+Micro-school Pandas Library Tutorial
